@@ -9,8 +9,17 @@ This project is a clone of the Facebook homepage using HTML, CSS, Tailwind CSS, 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
+
+## Screenshots
+
+Here are screenshots comparing the real Facebook homepage and the cloned page:
+
+![Real Facebook Homepage](screenshots/Facebook_Login_Page.png)
+*Screenshot of the real Facebook homepage*
+
+![Facebook Clone Page](screenshots/facebook-clone-page.png)
+*Screenshot of the Facebook Clone Page*
+
 
 ## Introduction
 
@@ -57,25 +66,6 @@ npm start
 
 The website will be served at `http://localhost:3000` in your web browser.
 
-## Screenshots
-
-Here are screenshots comparing the real Facebook homepage and the cloned page:
-
-![Real Facebook Homepage](screenshots/Facebook_Login_Page.png)
-*Screenshot of the real Facebook homepage*
-
-![Facebook Clone Page](screenshots/facebook-clone-page.png)
-*Screenshot of the Facebook Clone Page*
-
 ## Contributing
 
 Contributions to this project are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-Please make sure to follow the [code of conduct](CODE_OF_CONDUCT.md) when contributing.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this code as per the terms of the license.
-```
-
-In this updated version, I added a new section called "Screenshots" where you can include the screenshots of the real Facebook homepage and your cloned page. Make sure to replace the placeholder image paths with the actual paths to your screenshots.
