@@ -1,6 +1,6 @@
-# Facebook Clone Page
+# Facebook Login Clone Page
 
-This project is a clone of the Facebook homepage using HTML, CSS, Tailwind CSS, and Favicon for icons. It aims to replicate the look and feel of the Facebook homepage, showcasing its various sections and features.
+This project is a clone of the Facebook Login homepage using HTML, CSS, Tailwind CSS, and Favicon for icons. It aims to replicate the look and feel of the Facebook homepage, showcasing its various sections and features.
 
 ## Table of Contents
 
@@ -23,7 +23,7 @@ Here are screenshots comparing the real Facebook homepage and the cloned page:
 
 ## Introduction
 
-The Facebook Clone Page project is a responsive website that closely resembles the design of the Facebook homepage. It utilizes HTML for structure, CSS for styling, Tailwind CSS for responsive layouts and utility classes, and Favicon for icons. The clone showcases the main sections and features present on the original Facebook homepage.
+The Facebook Login Clone Page project is a responsive website that closely resembles the design of the Facebook homepage. It utilizes HTML for structure, CSS for styling, Tailwind CSS for responsive layouts and utility classes, and Favicon for icons. The clone showcases the main sections and features present on the original Facebook homepage.
 
 ## Technologies Used
 
